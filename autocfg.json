@@ -1,0 +1,415 @@
+{
+  "watermark": {
+    "bind": -1,
+    "state": true
+  },
+  "clickgui": {
+    "bind": 344,
+    "state": false,
+    "Темы": false,
+    "Закругление": "Сильное"
+  },
+  "antibot": {
+    "bind": -1,
+    "state": true,
+    "Mode": "UUID"
+  },
+  "sprint": {
+    "bind": -1,
+    "state": true
+  },
+  "attack aura": {
+    "bind": 82,
+    "state": false,
+    "Mode": "Rotate",
+    "Sort": "Health",
+    "Targets": "Players,Nakeds,Invisible",
+    "Movement Fix": "Focused",
+    "ЕlуtraTаrget": true,
+    "Attack Range": 3.4,
+    "Pre Attack Range": 0.0,
+    "Еlуtra Attack Range": 3.0,
+    "Еlуtra Pre Attack Range": 30.0,
+    "Shield Breaker": true,
+    "Unpress Shield": false,
+    "Pause on Item Use": false,
+    "Only Criticals": true,
+    "Space Only": false,
+    "Ray Cast": false,
+    "Only On Еlуtra": false,
+    "Ignore Walls": false,
+    "Sprint Reset": "Full",
+    "OldDelay": false,
+    "MinCPS": 7.0,
+    "MaxCPS": 12.0,
+    "Еlуtra Predict": 2.5,
+    "Predict Bind": 3,
+    "Shake Intensity": 0.5
+  },
+  "autoleave": {
+    "bind": -1,
+    "state": false
+  },
+  "autoexplosion": {
+    "bind": -1,
+    "state": false,
+    "Conserve valuable resources": true,
+    "Only when looking at crystal": false,
+    "Only own crystals": true
+  },
+  "speed": {
+    "bind": 66,
+    "state": false,
+    "Режим": "Коллизия",
+    "Только игроки": true,
+    "Скорость": 8.0
+  },
+  "triggеrbot": {
+    "bind": -1,
+    "state": false,
+    "Pause If Eating": true,
+    "Only Criticals": true,
+    "Space Only": false
+  },
+  "targetesp": {
+    "bind": -1,
+    "state": true,
+    "Рисовать через стены": false
+  },
+  "nightvision": {
+    "bind": -1,
+    "state": false
+  },
+  "pearlprediction": {
+    "bind": -1,
+    "state": true
+  },
+  "superfirework": {
+    "bind": -1,
+    "state": false,
+    "Ускорение без таргета": true,
+    "Ускорения": "Статичное",
+    "Скорость буста": 0.2,
+    "Мин. множитель": 0.1,
+    "Макс. множитель": 0.5
+  },
+  "projectileassist": {
+    "bind": -1,
+    "state": false
+  },
+  "antitarget": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 0.12,
+    "Угол": 43.0
+  },
+  "velocity": {
+    "bind": -1,
+    "state": false,
+    "Mode": "Cancel"
+  },
+  "scaffold": {
+    "bind": -1,
+    "state": false,
+    "Silent": false
+  },
+  "guimove": {
+    "bind": -1,
+    "state": true,
+    "Disable Clicks": false,
+    "Обходить фантайм": false
+  },
+  "waterspeed": {
+    "bind": -1,
+    "state": false,
+    "Мод": "Грация Дельфина"
+  },
+  "viewmodel": {
+    "bind": -1,
+    "state": false,
+    "Custom Scale": false,
+    "Scale Value": 1.0,
+    "Left X": 0.0,
+    "Left Y": 0.0,
+    "Left Z": 0.0,
+    "Right X": 0.0,
+    "Right Y": 0.0,
+    "Right Z": 0.0
+  },
+  "norender": {
+    "bind": -1,
+    "state": true,
+    "ScoreBoard": false,
+    "Block Overlay": true,
+    "Fire Overlay": true,
+    "HurtCam": true
+  },
+  "glowesp": {
+    "bind": -1,
+    "state": false
+  },
+  "ambience": {
+    "bind": -1,
+    "state": true,
+    "Custom Time": true,
+    "Time": 15574.0,
+    "Fog": true,
+    "Fog Start": 600.0,
+    "Fog End": 600.0
+  },
+  "autorespawn": {
+    "bind": -1,
+    "state": true
+  },
+  "noweb": {
+    "bind": -1,
+    "state": false,
+    "Скорость": 0.3
+  },
+  "fastbow": {
+    "bind": -1,
+    "state": false,
+    "Задержка": 3.0
+  },
+  "pearltarget": {
+    "bind": -1,
+    "state": false,
+    "Radius": 30.0,
+    "DelayTicks": 10.0
+  },
+  "godmode": {
+    "bind": -1,
+    "state": false
+  },
+  "swinganimations": {
+    "bind": -1,
+    "state": false,
+    "Режим": "Вращение 360",
+    "Медленная анимация": false,
+    "Скорость анимации": 12.0
+  },
+  "nodelay": {
+    "bind": -1,
+    "state": true
+  },
+  "clearbadeffects": {
+    "bind": -1,
+    "state": false,
+    "Слепота": true,
+    "Тошнота": true,
+    "Усталость": true,
+    "Левитация": true,
+    "Замедление": true,
+    "Прыжок": true
+  },
+  "noresourcepack": {
+    "bind": -1,
+    "state": false
+  },
+  "keybinds": {
+    "bind": -1,
+    "state": true
+  },
+  "fastuse": {
+    "bind": -1,
+    "state": false,
+    "Blocks": false,
+    "Crystals": false,
+    "XP": false,
+    "Delay": 0.0
+  },
+  "spider": {
+    "bind": -1,
+    "state": false,
+    "Мод": "Ведро воды",
+    "Использовать свап пакетом": true,
+    "Задержка": 2.0
+  },
+  "targethud": {
+    "bind": -1,
+    "state": true
+  },
+  "nointeract": {
+    "bind": -1,
+    "state": false
+  },
+  "assistans": {
+    "bind": -1,
+    "state": true,
+    "Сервер": "LonyGrief",
+    "Трапка": -1,
+    "Ливалка": -1,
+    "Дон Ливалка": 4
+  },
+  "pingspoof": {
+    "bind": -1,
+    "state": false,
+    "Пинг": 500.0
+  },
+  "itemswapfix": {
+    "bind": -1,
+    "state": true
+  },
+  "potionprediction": {
+    "bind": -1,
+    "state": true
+  },
+  "autopotion": {
+    "bind": -1,
+    "state": false,
+    "Auto Off": true
+  },
+  "nameprotect": {
+    "bind": -1,
+    "state": true,
+    "Скрывать друзей": true,
+    "Ник": "@moonshinedlc"
+  },
+  "aimingitems": {
+    "bind": -1,
+    "state": false
+  },
+  "notifications": {
+    "bind": -1,
+    "state": true,
+    "Уведомление о спеке": false
+  },
+  "storageesp": {
+    "bind": -1,
+    "state": false,
+    "Цели": ""
+  },
+  "autoswap": {
+    "bind": -1,
+    "state": false,
+    "Swap Mode": "Pick",
+    "Key for swap": 0,
+    "Take If Empty": false,
+    "First item": "Firework Star",
+    "Second item": "Firework Star"
+  },
+  "potionlist": {
+    "bind": -1,
+    "state": false
+  },
+  "elytrafix": {
+    "bind": -1,
+    "state": true
+  },
+  "arrows": {
+    "bind": -1,
+    "state": true,
+    "Targets": "Players,Ender Pearl",
+    "Size": 1.7,
+    "Radius": 76.200005
+  },
+  "aspectratio": {
+    "bind": -1,
+    "state": false,
+    "Ratio": 1.78
+  },
+  "autototem": {
+    "bind": -1,
+    "state": true,
+    "Режим замены": "Легитный",
+    "Здоровье": 5.0,
+    "Вернуть предмет": true,
+    "Не брать с шаром": false,
+    "Условие": "Кристалл,Падение,Элитры",
+    "Здоровье для элитр": 11.0,
+    "Радиус обсидиана": 6.0,
+    "Радиус кристалла": 6.0,
+    "Радиус якоря": 6.0
+  },
+  "stafflist": {
+    "bind": -1,
+    "state": true
+  },
+  "autotpaccept": {
+    "bind": -1,
+    "state": true,
+    "Only Friends": true
+  },
+  "nofriendattack": {
+    "bind": -1,
+    "state": true
+  },
+  "nocommand": {
+    "bind": -1,
+    "state": false
+  },
+  "noslow": {
+    "bind": 67,
+    "state": true,
+    "Mode": "Grim",
+    "Double Packet": true
+  },
+  "nopush": {
+    "bind": -1,
+    "state": true,
+    "Blocks": true,
+    "Entities": true
+  },
+  "dragonfly": {
+    "bind": -1,
+    "state": false,
+    "Horizontal Speed": 0.1,
+    "Vertical Speed": 0.1
+  },
+  "unload": {
+    "bind": -1,
+    "state": false
+  },
+  "hitbох": {
+    "bind": -1,
+    "state": false,
+    "Размер": 0.2
+  },
+  "freecam": {
+    "bind": 77,
+    "state": false,
+    "Horizontal Speed": 1.0,
+    "Vertical Speed": 1.0,
+    "Freeze": true
+  },
+  "fly": {
+    "bind": -1,
+    "state": false,
+    "Fly Mode": "Vanilla",
+    "Horizontal": 1.0,
+    "Vertical": 0.78,
+    "Swap Delay": 400.0,
+    "Firework Delay": 400.0
+  },
+  "autotool": {
+    "bind": -1,
+    "state": true
+  },
+  "particles": {
+    "bind": -1,
+    "state": true,
+    "Вид": "Звездочки",
+    "Кол-во": 53.0,
+    "Радужные": true,
+    "Размер": 0.3
+  },
+  "elytrahelper": {
+    "bind": -1,
+    "state": true,
+    "Клавиша Смены Элитры": 71,
+    "Клавиша Фейерверка": 86,
+    "Тихий Старт": false
+  },
+  "clickpearl": {
+    "bind": -1,
+    "state": true,
+    "Мод": "Пакетный"
+  },
+  "esp": {
+    "bind": -1,
+    "state": true,
+    "Цели": "Игроки,Предметы,Жемчуги",
+    "Отображение игрока": "Броня,Чары"
+  },
+  "_theme": "AURORA"
+}
